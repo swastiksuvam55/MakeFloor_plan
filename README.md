@@ -1,4 +1,4 @@
-# integrtr-diagrams
+# Make your own floor plan
 
 A minimal diagrammatic tool built with HTML5 Canvas & React JS 
 
